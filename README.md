@@ -16,7 +16,7 @@ npm install platzom-manumac
 ## Uso
 
 ```
-import platzom from 'platzom'
+import platzom from 'platzom-manumac'
 
 platzom("Programar") // Program
 platzom("Zorro") // Zorrope
